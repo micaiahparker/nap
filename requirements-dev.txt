@@ -1,4 +1,7 @@
-colorama==0.3.7
--e git+https://github.com/micaiahparker/nap@7d145262453b127bd82ae0f82834192d7167b9c7#egg=nap
-py==1.4.33
-pytest==3.0.7
+falcon==1.0.0
+hug==2.2.0
+-e git+https://github.com/micaiahparker/nap@5aa8dc12153edac2fd285c83521a83e8b95f3030#egg=nap
+pony==0.7.1
+python-mimeparse==1.6.0
+requests==2.13.0
+six==1.10.0

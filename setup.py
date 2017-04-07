@@ -4,5 +4,9 @@ setup(
     name='nap',
     author='Micaiah Parker',
     version='0.1',
-    packages=['nap']
+    packages=['nap'],
+    install_requires = [
+        'pony',
+        'hug'
+    ]
 )
